@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="20150803  asia java/src"/>
+	<classpathentry kind="src" path="Chattingmode/src"/>
+	<classpathentry kind="src" path="Ifelse/src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
