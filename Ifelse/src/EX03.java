@@ -8,9 +8,9 @@ public class EX03 {
            int cm = scn.nextInt();
            int h = scn.nextInt();
            if(kk>43 && cm>130 && h==12){
-        	   System.out.println("�");
+        	   System.out.println("買");
            }else{
-        	   System.out.println("銝");
+        	   System.out.println("不買");
            }
 	}
 

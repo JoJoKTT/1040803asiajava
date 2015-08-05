@@ -7,40 +7,40 @@ public class EX02 {
            int A = scn.nextInt();
            int B = scn.nextInt();
            if((A==1 && B<=20 && B>=1) || (A==12 && B>=21 && B<=31) ){
-        	   System.out.println("æ‘©ç¾¯åº§ï¼šå–œæ­¡æ²‰é†‰æ–¼è‡ªå·±çš„ä¸–ç•Œ");
+        	   System.out.println("¼¯½~®y¡G³ßÅw¨I¾K©ó¦Û¤vªº¥@¬É");
            }else{
         	   if((A==2 && B<=19 && B>=1) || (A==1 && B>=21 && B<=31) ){
-        		   System.out.println("æ°´ç“¶åº§ï¼šé›£ç‚ºè‡ªå·±ï¼Œä¸æƒ³å°æ–¹é›£éŽ");
+        		   System.out.println("¤ô²~®y¡GÃø¬°¦Û¤v¡A¤£·Q¹ï¤èÃø¹L");
         	   }else{
         		   if((A==3 && B<=20 && B>=1) || (A==2 && B>=20 && B<=29) ){
-        			   System.out.println("é›™é­šåº§ï¼šæ„›æ”¾ä½Žè‡ªå·±çš„è„¾æ°£");
+        			   System.out.println("Âù³½®y¡G·R©ñ§C¦Û¤vªºµÊ®ð");
         		   }else{
         			   if((A==4 && B<=19 && B>=1) || (A==3 && B>=21 && B<=31) ){
-        				   System.out.println("ç‰¡ç¾Šåº§ï¼šè¬›ç¾©æ°£å¤ æœ‹å‹");
+        				   System.out.println("¨d¦Ï®y¡GÁ¿¸q®ð°÷ªB¤Í");
         			   }else{
         				   if((A==5 && B<=20 && B>=1) || (A==4 && B>=20 && B<=30) ){
-        					   System.out.println("é‡‘ç‰›åº§ï¼šçœŸæ€§æƒ…ï¼Œæ„›æ¨åˆ†æ˜Ž");
+        					   System.out.println("ª÷¤û®y¡G¯u©Ê±¡¡A·R«ë¤À©ú");
         				   }else{
         					   if((A==6 && B<=21 && B>=1) || (A==5 && B>=21 && B<=31) ){
-        						   System.out.println("é›™å­åº§ï¼šæ„›æƒ…çš„åŸ·è‘—è€…");
+        						   System.out.println("Âù¤l®y¡G·R±¡ªº°õµÛªÌ");
         					   }else{
         						   if((A==7 && B<=22 && B>=1) || (A==6 && B>=22 && B<=29) ){
-        							   System.out.println("å·¨èŸ¹åº§ï¼šå®¹æ˜“å—å‚·ã€å®¹æ˜“æ»¿è¶³");
+        							   System.out.println("¥¨ÃÉ®y¡G®e©ö¨ü¶Ë¡B®e©öº¡¨¬");
         						   }else{
         							   if((A==8 && B<=22 && B>=1) || (A==7 && B>=23 && B<=31) ){
-        								   System.out.println("ç…å­åº§ï¼šä¸å–œæ­¡åšæ±ºå®š");
+        								   System.out.println("·à¤l®y¡G¤£³ßÅw°µ¨M©w");
         							   }else{
         								   if((A==9 && B<=22 && B>=1) || (A==8 && B>=23 && B<=31) ){
-        									   System.out.println("è™•å¥³åº§ï¼šå¾ˆå®³æ€•å­¤å–®ï¼Œç´°å¿ƒæº«æŸ”");
+        									   System.out.println("³B¤k®y¡G«Ü®`©È©t³æ¡A²Ó¤ß·Å¬X");
         								   }else{
         									   if((A==10 && B<=23 && B>=1) || (A==9 && B>=23 && B<=30) ){
-        										   System.out.println("å¤©ç§¤åº§ï¼šæœ‰å–„è¾¯çš„å£æ‰");
+        										   System.out.println("¤Ñ¯¯®y¡G¦³µ½ÅGªº¤f¤~");
         									   }else{
         										   if((A==11 && B<=21 && B>=1) || (A==10 && B>=24 && B<=31) ){
-        											   System.out.println("å¤©è åº§ï¼šå˜´é›–æ¯’ï¼Œå¿ƒå¾ˆå–„");
+        											   System.out.println("¤ÑÃÈ®y¡G¼LÁö¬r¡A¤ß«Üµ½");
         										   }else{
         											   if((A==12 && B<=20 && B>=1) || (A==11 && B>=22 && B<=30) ){
-        											   System.out.println("å°„æ‰‹åº§ï¼šæœ‹å‹å¾ˆå¤šï¼Œæ¡ƒèŠ±é‹å¾ˆæ—º");
+        											   System.out.println("®g¤â®y¡GªB¤Í«Ü¦h¡A®çªá¹B«Ü©ô");
         										   }
         									   }
         								   }
