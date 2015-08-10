@@ -8,9 +8,9 @@ public class EX03 {
            int cm = scn.nextInt();
            int h = scn.nextInt();
            if(kk>43 && cm>130 && h==12){
-        	   System.out.println("Ë≤∑");
+        	   System.out.println("∂R");
            }else{
-        	   System.out.println("‰∏çË≤∑");
+        	   System.out.println("§£∂R");
            }
 	}
 
