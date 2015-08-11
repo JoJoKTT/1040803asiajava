@@ -12,13 +12,9 @@ public class DrinksSwitch {
         	   System.out.println("¤£¶R");
              }else{
         	   if(price>0 || price<=45){
-        	   switch(d){
-        	   case '':
-        		   
-        		   break;
         		   
         		   
-        	   }
+        		           	              	   
            }
 	}
 	}
