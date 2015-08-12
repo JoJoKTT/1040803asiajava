@@ -29,7 +29,7 @@ public class Arraysort {
             			a[j]=v2;
             		}
             	}
-        	       if(a[i]%2==0){
+            	if(a[i]%2==0){
           		     v1++;
              	}
         }
