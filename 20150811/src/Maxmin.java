@@ -27,7 +27,7 @@ public class Maxmin {
         	   System.out.println(a[i]);
            }
            for(i=0;i<3;i++){
-        	   System.out.println("min="+a[i=0]+"\tmax="+a[i=2]);
+        	   System.out.println("min="+a[0]+"\tmax="+a[2]);
            }
 	}
 
