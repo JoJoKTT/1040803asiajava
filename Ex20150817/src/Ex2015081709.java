@@ -5,12 +5,12 @@ public class Ex2015081709 {
 		// TODO Auto-generated method stub
 		Scanner scn=new Scanner(System.in);
 		float n=scn.nextInt();
-		System.out.print(fac(n));
+		float result=0f;
+		System.out.print(fac(n,result));
 	}
-	public static float fac(float n){
-		int result=0;
+	public static float fac(float n,float m){
 		for(int i=1;i<=n;i++){
-			result+=1.0/((2*i-1)*(2*i));
-		}return result;
+			m+=1.0/((2*i-1)*(2*i));
+		}return m;
 	}
 }

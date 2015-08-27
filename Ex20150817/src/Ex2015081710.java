@@ -5,13 +5,15 @@ public class Ex2015081710 {
 		// TODO Auto-generated method stub
 		Scanner scn=new Scanner(System.in);
 		int n=scn.nextInt();
-		System.out.print(fac(n));
+		int sum=0;
+		System.out.print(fac(n,sum));
 	}
-	public static int fac(int n){
-		int result=0;
-		for(int i=1;i<=n;i++){
-			double k=Math.pow(2,i);
-			result+=k;
-		}return result;
+	public static int fac(int n,int m){
+		if(n==0){
+			return m;
+		}else{
+			m+=Math.pow(2,n);
+			return fac(n-1,m);
+		}
 	}
 }

@@ -1,9 +1,8 @@
-import java.util.Scanner;
+
 public class Water {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-           Scanner scn = new Scanner(System.in);
            float n = 5000000.0f;
            float w = n*0.78f;
            float dropw = 20000.0f;
