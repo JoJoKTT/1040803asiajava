@@ -14,12 +14,8 @@ public class Ex14array {
 			for(int j=0;j<m;j++){
 				int k=(i+1)*(j+1);
 				a[j][i]=k;
-			}
-		}
-		for(int i=0;i<n;i++){
-			for(int j=0;j<m;j++){
 				System.out.print(a[j][i]+" ");
 			}System.out.println();
-		}System.out.println();
+		}
 	}
 }
